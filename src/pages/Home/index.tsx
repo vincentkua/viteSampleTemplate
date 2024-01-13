@@ -1,7 +1,9 @@
+import { StyledHeader } from "./styled.component";
+
 const Home = () => {
   return (
     <>
-      <h3>Home Page</h3>
+      <StyledHeader>Home Page</StyledHeader>
       <p>
         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Asperiores
         sapiente dolor nemo deleniti odit. Voluptatum dolores est alias
